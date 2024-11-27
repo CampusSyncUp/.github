@@ -41,7 +41,7 @@ This project started with a lighthearted post suggesting that computer science s
 
 ---
 
-## 🌟 Join Us!
+## 🌟 Join Us
 
 This is just the beginning. If you’re an ETS student, coding enthusiast, or someone with ideas to share, we’d love for you to join the conversation. Let’s see where this idea takes us!
 
