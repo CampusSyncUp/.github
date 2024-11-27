@@ -1,12 +1,12 @@
 # Welcome to TindETS ❤️
 
-**TindETS** is a fun and ambitious idea inspired by a post that dared ETS students to create a dating app for **ÉTS (École de technologie supérieure)**. We thought, *Why not dream big?* And so, this GitHub organization was born.
+**TindETS** is a fun and ambitious idea inspired by a post that dared ETS students to create a dating app for **ÉTS (École de technologie supérieure)**. We thought, _Why not dream big?_ And so, this GitHub organization was born.
 
 ---
 
 ## 🚀 What is TindETS?
 
-At its core, TindETS is imagined as a dating app tailored for ETS students, offering them a way to connect for friendships, relationships, or even casual meetups. But here's the catch: **this project is still in its brainstorming phase**. 
+At its core, TindETS is imagined as a dating app tailored for ETS students, offering them a way to connect for friendships, relationships, or even casual meetups. But here's the catch: **this project is still in its brainstorming phase**.
 
 We don’t yet know if this idea will take off or even if it will have the backing of the school. Right now, it’s all about dreaming, discussing, and exploring the possibilities.
 
@@ -17,6 +17,7 @@ If you’re curious about what could come of this, join the conversation in our 
 ## 🌱 Current Status
 
 We’re still in the **idea and brainstorming phase**:
+
 - No active development yet.
 - Exploring concepts, features, and the technical feasibility of the app.
 - Gauging interest and discussing how to bring this project to life.
@@ -27,6 +28,7 @@ We’re still in the **idea and brainstorming phase**:
 ## 🧠 How Can You Contribute?
 
 While we're not writing code just yet, your input is invaluable! Here’s how you can help:
+
 - **Join the discussion**: Share your ideas, suggestions, or concerns in our [Discussions](https://github.com/orgs/TindETS/discussions).
 - **Help brainstorm features**: What would make TindETS the ultimate campus connection app?
 - **Spread the word**: Let other ETS students know about this project and encourage them to share their thoughts.
