@@ -17,6 +17,7 @@ If you’re curious about what could come of this, join the conversation in our 
 ## 🌱 Current Status
 
 We’re still in the **idea and brainstorming phase**:
+
 - No active development yet.
 - Exploring concepts, features, and the technical feasibility of the app.
 - Gauging interest and discussing how to bring this project to life.
@@ -27,6 +28,7 @@ We’re still in the **idea and brainstorming phase**:
 ## 🧠 How Can You Contribute?
 
 While we're not writing code just yet, your input is invaluable! Here’s how you can help:
+
 - **Join the discussion**: Share your ideas, suggestions, or concerns in our [Discussions](https://github.com/orgs/SyncUp/discussions).
 - **Help brainstorm features**: What would make SyncUp the ultimate campus connection app?
 - **Spread the word**: Let other students know about this project and encourage them to share their thoughts.
@@ -39,7 +41,7 @@ This project started with a lighthearted post suggesting that computer science s
 
 ---
 
-## 🌟 Join Us!
+## 🌟 Join Us
 
 This is just the beginning. If you’re a student, coding enthusiast, or someone with ideas to share, we’d love for you to join the conversation. Let’s see where this idea takes us!
 
